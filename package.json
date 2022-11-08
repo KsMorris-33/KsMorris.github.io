@@ -2,6 +2,10 @@
   "name": "portafolio",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "18.3.0",
+    "npm": "8.19.2"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
